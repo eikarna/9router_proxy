@@ -738,6 +738,15 @@
       "enabled": false,
       "name": "almroot",
       "validated": true
+    },
+    {
+      "id": 83,
+      "url": "https://rcloak.com/api/proxies/raw?protocol=all",
+      "type": "generic_text",
+      "protocol": "all",
+      "enabled": true,
+      "name": "rcloak",
+      "validated": false
     }
   ]
 }
